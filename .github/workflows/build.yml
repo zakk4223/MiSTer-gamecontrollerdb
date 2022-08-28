@@ -24,7 +24,7 @@ jobs:
           author_name: Zakk
           author_email: zakk@rsdio.com
           message: Automated Release
-          add: '["./main/gamecontrollerdb.txt"]'
+          add: '["gamecontrollerdb.txt"]'
           cwd: './main'
 
 
